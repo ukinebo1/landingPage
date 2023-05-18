@@ -1,0 +1,52 @@
+nav ul{
+    list-style: none;
+}
+nav{
+    display: flex;
+    
+}
+
+.log{
+    display: flex;
+    
+}
+
+.log li{
+    
+    padding: 10px;
+    margin: 10px;
+} 
+.log button{
+    justify-content: center;
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+}
+.section1{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+.section1 button{
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+.btn1{
+    background-color: green;
+    color: white;
+}
+.btn2{
+    color: green;
+}
+
+
+
+
+
+
+/* .logo{
+    background-image: url(/img/logo.png);
+    background-repeat: no-repeat;
+} */
