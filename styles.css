@@ -1,3 +1,4 @@
+
 nav ul{
     list-style: none;
 }
@@ -40,8 +41,37 @@ nav{
 .btn2{
     color: green;
 }
+.div1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid red;
+}
 
+.info1{
+    display: flex;
+    justify-content: space-around;
+}
 
+.info{
+    display: flex;
+    justify-content: center;
+}
+.info,.img1{
+    height: 1px;
+    
+}
+.info,.word,.img1{
+    margin-top: 10px;
+}
+.img1{
+    height: 2px;
+}
+.img11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
