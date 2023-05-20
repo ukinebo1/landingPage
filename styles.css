@@ -64,8 +64,9 @@ nav{
 .info,.word,.img1{
     margin-top: 10px;
 }
-.img1{
-    height: 2px;
+.img1,.pict{
+
+    height: 32rem;
 }
 .img11{
     display: flex;
@@ -85,9 +86,37 @@ nav{
 }
 
 
+.test{
+    text-align: center;   
+}
 
+.word{
+    margin-right: 10px;
+}
+.word1{
+    margin-left: 10px;
+}
 
-/* .logo{
-    background-image: url(/img/logo.png);
-    background-repeat: no-repeat;
-} */
+.test1{
+    padding-left: 350px;
+}
+
+.logo{
+    margin-top: 30px;
+}
+.btn5{
+    text-align: center;
+    
+} 
+
+.di{
+    height: 35rem;
+    width: 100px;
+}
+.btn6{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+
+}
